@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to handling empty lists when calculating the average of numbers in Python. The original code returns 0 for an empty list, while the improved version raises a ValueError, providing more informative error handling for edge cases. This approach enhances code robustness and clarity.
